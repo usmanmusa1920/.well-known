@@ -8,13 +8,13 @@ In the case of a GitHub Pages domain, DNS verification sounds unable to do alrea
 
 2. In the settings menu, select "Connections."
 
-3. Choose the domain <img src="https://github.com/oyepriyansh/.well-known/assets/83062406/ed6ec647-f3d1-432e-bf00-94afdc4afdff" height="25px">; a pop-up will appear. Enter your GitHub Pages domain name.
+3. Choose the domain, a pop-up will appear. Enter your GitHub Pages domain name.
 
 4. Click on "Next," then select "Verify using https."
 
 5. Copy the content provided there, something like `dh=123456abc`.
 
-6. [Fork this repository](https://github.com/usmanmusa1920/.well-known/fork) (you can also create a new repository).
+6. [Fork this repository](https://github.com/usmanmusa1920/.well-known/fork) or [Create your own](https://github.com/new) with thesame content of this repo
 
 > [!IMPORTANT]  
 > Do not change the repository name; keep it as `.well-known`.
@@ -27,4 +27,4 @@ In the case of a GitHub Pages domain, DNS verification sounds unable to do alrea
 
 --- 
 
-If this guide was helpful, please consider starring this repository. Thank you!
+Thank you!
